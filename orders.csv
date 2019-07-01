@@ -1,0 +1,4 @@
+customerName,dishName,type,gfd,vgd,hdm,sfd,extras
+Bruce Wayne,Kyoto-style ramen,MAIN_COURSE,false,true,false,true
+Peter Parker,cinnamon custard,DESSERT,false,false,false,false
+Dora the explorer,cottage salad,STARTER,true,false,false,true
